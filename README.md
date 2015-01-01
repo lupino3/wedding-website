@@ -1,17 +1,8 @@
-responsive-wedding
-------------------
+Web site for Andrea and Grazia's wedding.
 
-An HTML5 responsive design using jquery waypoints & scroll-to for a pleasant single-page navigation. This template makes use of media queries and scales well for all mobile form-factors.
+Uses responsive-wedding by @bmgdev on github.
 
-A live demo can be viewed at:
-
-   http://sarahlovesbradley.com
-
-========
-
-![Preview](https://github.com/bmgdev/responsive-wedding/blob/master/preview.png?raw=true)
-
-## LICENSE
+## LICENSE (for the responsive-wedding template)
 
 (The MIT License)
 
